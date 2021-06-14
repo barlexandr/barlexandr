@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
+
+* 💬 Ask me about Java Core, Git, JUnit, Maven
+* 🌱 I’m currently learning Spring framework
+* 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/barlexandr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='20'>](https://vk.com/barlexandr)  
+
+
+
 
 <!--
 **barlexandr/barlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
